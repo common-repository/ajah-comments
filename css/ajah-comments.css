@@ -1,0 +1,19 @@
+#ajah-comments-navigation {
+}
+
+#ajah-comments-previous {
+cursor:pointer;
+float:left;
+margin-right:20px;
+}
+
+#ajah-comments-next {
+cursor:pointer;
+}
+
+#commentlist {
+clear:both;
+list-style:none;
+padding-left:0px;
+margin-left:0px;
+}
